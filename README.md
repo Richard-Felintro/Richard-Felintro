@@ -1,12 +1,5 @@
-# Hello, World 👋
-
-## Personal
-- 😄 **Pronouns** he/him
-- 💬 **I speak** PT-🇧🇷 & ENG-🇺🇸
-- 🔭 **Currently Attending** the Technical Course in Software Development at Escola SENAI de Informática
-- 📧 **Gmail** richardfelintro06@gmail.com
-
-## 🧠 **Skills**
+## Hello, World 👋
+### 🧠 **Skills**
 <div>
       <img alt="HTML5" src="https://img.shields.io/badge/html-100000?style=for-the-badge&logo=html5">
       <img alt="CSS3" src="https://img.shields.io/badge/css3-100000?style=for-the-badge&logo=css3&logoColor=blue">
