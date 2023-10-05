@@ -1,4 +1,3 @@
-## Hello, World 👋
 ### 💬 **Languages**
  Portuguese & English
 ### 📖 **Attending**
