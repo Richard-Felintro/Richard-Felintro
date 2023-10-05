@@ -1,4 +1,8 @@
 ## Hello, World 👋
+### 💬 **Languages**
+ Portuguese & English
+### 📖 **Attending**
+ Technical Course in Software Development at Escola SENAI de Informática.
 ### 🧠 **Skills**
 <div>
       <img alt="HTML5" src="https://img.shields.io/badge/html-100000?style=for-the-badge&logo=html5">
