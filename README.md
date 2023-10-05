@@ -1,5 +1,5 @@
 ### 💬 **Languages**
- Portuguese & English
+ Native Portuguese & Fluent English
 ### 📖 **Attending**
  Technical Course in Software Development at Escola SENAI de Informática.
 ### 🧠 **Skills**
