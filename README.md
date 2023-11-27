@@ -8,7 +8,8 @@
  <img alt="CSS3" src="https://img.shields.io/badge/css3-100000?style=for-the-badge&logo=css3&logoColor=blue">
  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-100000?style=for-the-badge&logo=javascript">
  <img alt="React" src="https://img.shields.io/badge/react-100000?style=for-the-badge&logo=react">
- <img alt="CSharp" src="https://img.shields.io/badge/csharp-100000?style=for-the-badge&logo=csharp&logoColor=darkgreen">
+ <img alt="CSharp" src="https://img.shields.io/badge/c%23-100000?style=for-the-badge&logo=csharp&logoColor=darkgreen">
+ <img alt=".NET" src="https://img.shields.io/badge/.net-100000?style=for-the-badge&logo=dotnet">
 </div>
 <div>
  <img alt="SQLite" src="https://img.shields.io/badge/sqlite-100000?style=for-the-badge&logo=sqlite">
