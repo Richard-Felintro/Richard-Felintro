@@ -1,7 +1,7 @@
 ### 💬 **Languages**
  Native Portuguese & Fluent English
 ### 📖 **Attending**
- Technical Course in Software Development at **Escola SENAI de Informática (Semester 3/4)**
+ Technical Course in Software Development at **Escola SENAI de Informática (Semester 4/4)**
 ### 🧠 **Skills**
 <div>
  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
